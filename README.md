@@ -14,7 +14,7 @@ Collection of resources for Elixir NLP devs
 - [Structured representations](http://www.ling.ohio-state.edu/~demarneffe.1/LING5050/material/structured.html)
 
 ## Ontology/semantics
-- [Martha Palmer | Projects | VerbNet | Downloads](http://verbs.colorado.edu/~mpalmer/projects/verbnet/downloads.html)
+- [Martha Palmer | Projects | Verb Net](http://verbs.colorado.edu/%7Empalmer/projects/verbnet.html)
 - [FrameNet](http://www.nltk.org/howto/framenet.html)
 - [Ontology101 - Protege Wiki](https://protegewiki.stanford.edu/wiki/Ontology101)
 - [ProtegeDesktopUserDocs - Protege Wiki](https://protegewiki.stanford.edu/wiki/Protege4UserDocs)
