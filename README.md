@@ -1,5 +1,14 @@
 # Elixir NLP
-Collection of resources for Elixir NLP devs
+A (hopefully helpful) collection of resources for Elixir NLP devs
+
+## Table of contents
+- [Books/papers/references](#bookspapersreferences)
+- [Videos](#videos)
+- [Presentations](#presentations)
+- [Ontology/semantics](#ontologysemantics)
+- [Systems/frameworks/platforms](#systemsframeworksplatforms)
+- [Data sources](#data-sources)
+- [Misc tools](#misc-tools)
 
 ## Books/papers/references
 - [NLTK Book](http://www.nltk.org/book_1ed/)
@@ -31,7 +40,7 @@ Collection of resources for Elixir NLP devs
 ## Systems/frameworks/platforms
 - [GATE.ac.uk - index.html](https://gate.ac.uk/)
 
-## Data Sources
+## Data sources
 - [ConceptNet](http://conceptnet.io/)
 - [Max-Planck-Institut für Informatik: YAGO](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/)
 - [[OTA] British National Corpus, XML edition](http://ota.ox.ac.uk/desc/2554)
