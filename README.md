@@ -13,6 +13,14 @@ Collection of resources for Elixir NLP devs
 - [costezki/awesome-nlprojects: List of projects related to Natural Language Processing (NLP) that make a geek smile for they exist](https://github.com/costezki/awesome-nlprojects)
 - [Structured representations](http://www.ling.ohio-state.edu/~demarneffe.1/LING5050/material/structured.html)
 
+## Videos
+- [Lecture 1a - Introduction [Phil Blunsom] - YouTube](https://youtu.be/RP3tZFcC2e8)
+- [Dan Jurafsky & Chris Manning: Natural Language Processing (Stanford Linguistics Group)](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
+- [Jeff Dean’s Lecture for YC AI - YouTube](https://youtu.be/HcStlHGpjN8) (more ML/DL, but discusses use in NLP)
+
+## Presentations
+- [NLP with Elixir: Say whuuut? - Google Slides](https://docs.google.com/presentation/d/1ZPixHSW8w2pf0cr7BkFwUTUxwcAKM0lDDejtdQ1IwRw/mobilepresent#slide=id.p)
+
 ## Ontology/semantics
 - [Martha Palmer | Projects | Verb Net](http://verbs.colorado.edu/%7Empalmer/projects/verbnet.html)
 - [FrameNet](http://www.nltk.org/howto/framenet.html)
@@ -30,4 +38,4 @@ Collection of resources for Elixir NLP devs
 - [Open American National Corpus | Open Data for Language Research and Education](http://www.anc.org/)
 
 ## Misc tools
-- [Evalb - bracket scoring program](http://nlp.cs.nyu.edu/evalb/)
+- [Evalb - bracket scoring program](http://nlp.cs.nyu.edu/evalb/) (validation/accuracy reporting - "F-scoring")
