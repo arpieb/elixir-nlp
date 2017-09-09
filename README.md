@@ -23,9 +23,6 @@ Collection of resources for Elixir NLP devs
 ## Systems/frameworks/platforms
 - [GATE.ac.uk - index.html](https://gate.ac.uk/)
 
-## Misc NLP readings
-- [jacobeisenstein/gt-nlp-class: Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"](https://github.com/jacobeisenstein/gt-nlp-class)
-
 ## Data Sources
 - [ConceptNet](http://conceptnet.io/)
 - [Max-Planck-Institut für Informatik: YAGO](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/)
