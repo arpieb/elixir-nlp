@@ -48,3 +48,4 @@ A (hopefully helpful) collection of resources for Elixir NLP devs
 
 ## Misc tools
 - [Evalb - bracket scoring program](http://nlp.cs.nyu.edu/evalb/) (validation/accuracy reporting - "F-scoring")
+- [wevi: word embedding visual inspector](https://ronxin.github.io/wevi/)
