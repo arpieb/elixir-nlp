@@ -22,6 +22,7 @@ A (hopefully helpful) collection of resources for Elixir NLP devs
 - [costezki/awesome-nlprojects: List of projects related to Natural Language Processing (NLP) that make a geek smile for they exist](https://github.com/costezki/awesome-nlprojects)
 - [Structured representations](http://www.ling.ohio-state.edu/~demarneffe.1/LING5050/material/structured.html)
 - [Contextual Word Representations: A Contextual Introduction](https://arxiv.org/abs/1902.06006)
+- [Evaluation of Modern Tools for an OMSCS Advisor Chatbot](https://smartech.gatech.edu/handle/1853/58516)
 
 ## Videos
 - [Lecture 1a - Introduction [Phil Blunsom] - YouTube](https://youtu.be/RP3tZFcC2e8)
@@ -32,6 +33,7 @@ A (hopefully helpful) collection of resources for Elixir NLP devs
 - [NLP with Elixir: Say whuuut? - Google Slides](https://docs.google.com/presentation/d/1ZPixHSW8w2pf0cr7BkFwUTUxwcAKM0lDDejtdQ1IwRw/mobilepresent#slide=id.p)
 
 ## Ontology/semantics
+- [WordNet](https://wordnet.princeton.edu/)
 - [Martha Palmer | Projects | Verb Net](http://verbs.colorado.edu/%7Empalmer/projects/verbnet.html)
 - [FrameNet](http://www.nltk.org/howto/framenet.html)
 - [Ontology101 - Protege Wiki](https://protegewiki.stanford.edu/wiki/Ontology101)
@@ -39,7 +41,36 @@ A (hopefully helpful) collection of resources for Elixir NLP devs
 - [Shallow Semantic Parsing Based on FrameNet, VerbNet and PropBank - Semantic Scholar](https://www.semanticscholar.org/paper/Shallow-Semantic-Parsing-Based-on-FrameNet-VerbNet-Giuglea-Moschitti/02e4745b29502268550ba215eb690bbd641f4c00)
 
 ## Systems/frameworks/platforms
+
+### NLP/Text Mining Tools Features
+- [Natural Language Toolkit (NLTK)](http://www.nltk.org/)
+- [TextBlob](https://textblob.readthedocs.io/en/dev/)
+- [OpenNLP](https://opennlp.apache.org/)
+- [CoreNLP](http://nlp.stanford.edu)
+- [Lexalytics](https://www.lexalytics.com/)
+- [Microsoft Luis](https://www.luis.ai)
+- [Google Cloud Natural Language API](https://cloud.google.com/natural-language/)
+- [FastText](https://github.com/facebookresearch/fastText)
+- [spaCy](https://spacy.io/)
+- [Apache UIMA](https://uima.apache.org/)
+- [CLiPS Pattern](https://www.clips.uantwerpen.be/pattern)
+- [Textgain](https://www.textgain.com/)
 - [GATE.ac.uk - index.html](https://gate.ac.uk/)
+
+### Chatbot Platforms / Knowledge Base Construction (KBC)
+- [AIML](http://www.alicebot.org/aiml.html)
+- [ChatScript](http://chatscript.sourceforge.net/)
+- [RiveScript](https://www.rivescript.com/)
+- [Rasa](https://rasa.ai/)
+- [Wit.ai](https://wit.ai/)
+- [Watson](https://www.ibm.com/cloud-computing/bluemix/services)
+- [Amazon LEX](https://aws.amazon.com/lex/)
+- [Microsoft Bot](https://dev.botframework.com/)
+- [Microsoft Azure QnA](https://azure.microsoft.com/en-us/services/cognitive-services/)
+- [Google Knowledge Graph API](https://developers.google.com/knowledge-graph/)
+- [Agent.ai](https://www.agent.ai/)
+- [Pandorabots](https://www.pandorabots.com/)
+- [Dialogflow](https://dialogflow.com/)
 
 ## Data sources
 - [ConceptNet](http://conceptnet.io/)
