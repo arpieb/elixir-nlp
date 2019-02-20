@@ -21,6 +21,7 @@ A (hopefully helpful) collection of resources for Elixir NLP devs
 - [Universal Dependencies](http://universaldependencies.org/#fa)
 - [costezki/awesome-nlprojects: List of projects related to Natural Language Processing (NLP) that make a geek smile for they exist](https://github.com/costezki/awesome-nlprojects)
 - [Structured representations](http://www.ling.ohio-state.edu/~demarneffe.1/LING5050/material/structured.html)
+- [Contextual Word Representations: A Contextual Introduction](https://arxiv.org/abs/1902.06006)
 
 ## Videos
 - [Lecture 1a - Introduction [Phil Blunsom] - YouTube](https://youtu.be/RP3tZFcC2e8)
